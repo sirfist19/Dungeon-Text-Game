@@ -1,0 +1,113 @@
+Riddles
+COMPLETE
+
+I'm marked for life unlike any other, yet I have all the power. I can make people do what I want by simply waving my\n hand, yet I never can tell apart those who tell the truth from those who manipulate my every move. One day I may end\nup with a dagger in my back, if only I tread the wrong path. 
+Ans: king
+
+What always runs in circles, never getting tired. That glows, but doesn't produce it's own light. That's always there but is hidden half of the time?
+Ans: the Moon
+
+
+
+STILL WORKING ON
+Simple but effective, I wreak my wrath. 
+Ans: sword
+
+
+Sit in one place is all I do. Impervious to flame; often found in water. I'm older than you and all your ancestors too. But don't think I don't die, for wither away I have while watching the days, and years fly by. I stand my ground till death do me part. 
+Ans: rock, stone
+
+
+
+Ans: moss
+_______________________________________________________________________________________________________________________
+Logic Puzzles:
+You are part of the crew on a trading vessel. One night, your ship is caught in a massive storm. 
+
+A trading vessel is caught in a massive storm and the boat sinks. Only one of the lifeboats carrying three passengers escapes. After days of drifting, the three land on an small, unexplored island. 
+
+
+
+
+
+
+
+If the King carries the crown, the Knight carries his sword, and the Merchant carries his wares, what does the Peasant carry?
+Answer: the kingdom
+
+
+
+
+If meat feeds men, light feeds plants, what feeds swords?
+Answer: blood
+
+
+Is the following statement true or false? "This statement is false."
+Ans: Neither
+
+
+Connecting Puzzles
+___________________
+Rules: Only vertical and horizontal lines can be used. You must avoid all star characters (*). Connect the two nodes given with the least amount of lines possible.
+
+In the arangement below, what is the least amount of line segments that you can draw to go from point A to B?
+1.
+A	B	[Ans:1]
+
+
+2. 
+A		[Ans:2]
+*	B
+
+3.
+A   *   B       [Ans:3]	
+
+4.		
+
+A*
+*	*	[Ans:4]
+*	B*
+	*	
+
+5.
+
+********	[Ans:5]
+*    *B*
+**     *
+*   *  *
+*A*    *
+********
+
+6.
+
+***************	[Ans:4]
+*        B*   *
+*  *****  *   *
+*      *      *
+*****  ***    *
+*A            *
+***************
+
+			
+Adding Hashtags (touching a hashtag increases you line segment count by one)
+Intro puzzles:
+1.
+
+A   #	B [Ans: 2]
+
+
+2. 
+
+A      ##	[Ans:3]
+*	B
+
+3.
+
+#      ##
+A   *   B       [Ans:5]	
+##	#
+
+_____________________________________________________________________________________________________________________
+
+
+An armored knight, due to the weight of his armor, cannot run fast. But an unarmored knight is vulnerable to attacks. 

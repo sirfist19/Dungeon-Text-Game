@@ -1,0 +1,15 @@
+Combat Ideas for battling enemies
+
+-Add in a stamina quantity and recharge it for each encounter (or maybe base the stamina on the current health or something like that)
+
+-make multiple moves for melee weapons such as Charge, Slash, Block
+	-> the Charge attack will do the most damage but will leave the player helpless the next turn and will cost the most stamina
+	->the slash attack will do a moderate amount of damage and will only take up one turn
+	->the block attack will block all damage from the opponent's slash attack, but will not block all damage from the charge attack (maybe block some percentage of it or leave it up to a dice roll)
+
+
+-add in a chance to miss that depends on the weapon wielded and attack picked
+
+-add in more weapons and the axe, sword, pike, mace, dagger, bow (start with swords and axes)
+
+-add in a slot for shields ... the block attack will become more effective when blocking with a shield

@@ -1,0 +1,62 @@
+ENTER NAME SCREEN
+You open your eyes. It's pitch black. 
+	'Where am I?' you wonder.'How did I get here? And what was my name again?'
+
+
+Are you sure that playerName is the correct name? (Answer yes or no)
+_____________________________________________________________________________________________________________
+STARTING ROOM (FIRST TIME)
+You rub your eyes, but it's no use. You can't even see your hand a foot away from your face. 
+
+You sit up. Underneath you is a cold, flat SLAB.
+	'How long have I been sleeping here?' you wonder. But no answer comes to you.
+
+LOOK
+Looking around yields no information because you can't see anything. The air seems cold and stale - as if it hasn't moved around for ages. As you walk around the room, the 'clink clang' of your footsteps is the only sound in an otherwise silent, mysterious room.
+
+Feeling around the room you find EXIT STRING.
+
+Just before you make your way back to the SLAB, you bang your foot on some small object. Kneeling down it seems to be some sort of SWORD.
+
+EXAMINE SLAB
+By touch you can tell that the slab is made of some sort of stone. It's too dark to see anything more. To determine the slab's shape, you move your hands around all the edges and faces. After a few minutes, you decide that the slab must be a simple rectangular block atop a cylindrical pedistal. Both the pedistal and slab are as smooth as silk.
+		
+EXAMINE SWORD
+The sword is little more than a dull dagger, but it will do.
+________________________________________________________________________________________________________________
+HALLWAY 1
+Brief Description: A long, dimly lit hallway greets you. Water drips from cracks in the ceiling onto the gray stone floor.
+
+LOOK
+TORCHES line the walls and the hallway slopes, ever so slightly, downward toward the north. The water goes 'drip, drip, drip' and forms a small stream halfway through the hallway. There are EXIT STRING.
+_______________________________________________________________________________________________________________________
+SMALL SIDEROOM 1
+Brief Description:
+LOOK
+_______________________________________________________________________________________________________________________
+HALLWAY 2
+Brief Description:
+LOOK
+_______________________________________________________________________________________________________________________
+STAIRWAY 1
+Brief Description:
+LOOK
+____________________________________________________________________________________________________________________
+STATUE HALL (FLOOR 1)
+Brief Description: A massive circular hall stands before you. Upon a raised platform at the center of the\n room, lies a STATUE of a great King sitting in his throne while a Knight, on his knees, pledges fealty to\n him. The King is illuminated by a bright light coming from the ceiling.
+
+LOOK:
+The walls are lined with tall, crimson stone columns. Looking upward the columns rise for stories upon\n stories until they reach a massive, muraled DOME. From the dome's center comes an intense stream of light\n which grows and grows in width until it reaches the golden statue of the King.\n\n 
+
+About one-hundred feet above you a balcony protrudes from the wall. Higher up there seems like there might\n be additionally balconies and floors, but it doesn't look like there's anyway to get up there here. But\n perhaps some passageway will lead there.\n\n
+
+A large, golden door lies to the EAST. A stairway downwards lies to the WEST. 
+
+EXAMINE STATUE:
+Upon closer inspection, the Kings robes seem to be fashioned out of pure gold. The King strokes his long\n beard with his hand . His eyes are aimed directly at the knight pledging fealty and his mouth seems to be\n confused as to whether it's grinning or locked in contemplation. Three feet to the south the statue of the\n Knight made of pure iron. He has one knee to the floor and the other provides a support for his arm.\n The knight is fully clad in dark gray armor, but his faceguard is raised. The knight's sword is firmly\n planted with its tip into the ground. A PLAQUE upon a pedistal sits in front of the scene.
+
+EXAMINE PLAQUE:
+The text on the plaque is so worn that nothing can be made out. However, you suspect this was an\n important historical moment. 
+
+EMAMINE DOME:
+The dome is thousands of feet above you, so in order to see what the murals show, you have to quint and\n try your best to make out figures from a blurry image. The murals seems to depict some sort of great\n battle that likely happened more than a millenia ago. The great King from the statue at the center of the\n room is the largest figure of the mural and is depicted slaying a Great Beast of Shadow with a sword\n shining with the light of the sun. Behind the King lies a massive army in the process of charging. Behind\n the Great Beast, a dark army stands their ground in a coordinated shield wall.
